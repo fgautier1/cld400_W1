@@ -4,6 +4,8 @@
   <asx:values>
    <DEVC>
     <CTEXT>ZTESTABAPGIT_K00</CTEXT>
+    <TPCLASS>X</TPCLASS>
+    <PACKKIND>5</PACKKIND>
    </DEVC>
   </asx:values>
  </asx:abap>
